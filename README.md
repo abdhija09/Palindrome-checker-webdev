@@ -1,3 +1,4 @@
+                                                    
 🔁 Palindrome Checker
 A simple program that checks whether a given word, phrase, or number is a palindrome — a sequence that reads the same backward as forward (e.g., "madam", "121", "racecar").
 
